@@ -168,6 +168,8 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 * [rimraf](https://github.com/isaacs/rimraf) `rm -rf` util for nodejs. Great for npm scripts. #code
 * [Wemo.io Open Source VR Tools](https://wemo.io/os) #code
 * [IoT.js](http://samsung.github.io/iotjs/) An Internet of Things JavaScript platform.
+* [https://www.javascripting.com/] A comprehensive list of popular JS frameworks, libraries and plugins grouped by type of application.
+* [http://microjs.com/] A searchable list of popular JS frameworks, libraries and plugins (minified versions).
 
 
 ## React
